@@ -1,7 +1,9 @@
-### Hi there 👋
+<img src="https://github.com/wilson-tim/wilson-tim/blob/master/dragon-1200x330.jpg" alt="Banner image">
 
 <!--
 **wilson-tim/wilson-tim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
